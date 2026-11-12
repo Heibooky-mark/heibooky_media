@@ -64,3 +64,5 @@ footer{border-top:1px solid var(--line);background:#fff;padding:30px 0}
 .foot{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:.86rem;color:var(--muted)}
 .foot .logo img{width:120px}.footlinks{display:flex;gap:18px;flex-wrap:wrap;font-weight:700}
 @media (max-width:700px){.bhero{padding:44px 0 20px}.art{padding:30px 0 20px}.cta{padding:30px 22px}.fear .l{width:48px;height:48px}}
+
+.tab{width:100%;border-collapse:collapse;margin:18px 0;font-size:16px;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 6px 18px rgba(19,49,87,.06)}.tab th,.tab td{padding:12px 14px;border-bottom:1px solid #e3e9f1;text-align:left;vertical-align:top}.tab th{background:#133157;color:#fff;font-weight:700}.tab td small{display:block;color:#56657d;font-size:13px}.tab tr.tot td{font-weight:800;background:#fff6df;color:#133157}@media(max-width:560px){.tab{font-size:14px}.tab th,.tab td{padding:9px 8px}}
